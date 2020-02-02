@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <declare-styleable name="ds">
+        <attr name="colorPrimary" format="color"></attr>
+        <attr name="colorPrimaryDark" format="color"></attr>
+        <attr name="colorAccent" format="color"></attr>
+        <attr name="colorBackground" format="color"></attr>
+        <attr name="colorTextColor" format="color"></attr>
+        <attr name="buttonColor" format="color"></attr>
+    </declare-styleable>
+</resources>
